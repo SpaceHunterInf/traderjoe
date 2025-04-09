@@ -1,0 +1,47 @@
+[
+    {
+      "name": "New York City Hall",
+      "zipcode": "10007",
+      "reason": "Primary function is government operations within a secure complex and parkland."
+    },
+    {
+      "name": "9/11 Memorial & Museum",
+      "zipcode": "10007",
+      "reason": "Site is a dedicated national memorial and museum where large retail is inappropriate."
+    },
+    {
+      "name": "Central Park",
+      "zipcode": null,
+      "reason": "Designated public parkland with strict restrictions on commercial development within its boundaries."
+    },
+    {
+      "name": "Statue of Liberty",
+      "zipcode": "10004",
+      "reason": "Location is a federally protected national monument on an island requiring ferry access."
+    },
+    {
+      "name": "United Nations Headquarters",
+      "zipcode": "10017",
+      "reason": "Functions as a secure international diplomatic complex not zoned for general retail."
+    },
+    {
+      "name": "Times Square (Plaza Areas)",
+      "zipcode": "10036",
+      "reason": "Represents primarily public pedestrian plazas and streets unsuitable for a large grocery footprint."
+    },
+    {
+      "name": "Lower Manhattan Area (Battery Park City/Islands)",
+      "zipcode": "10004",
+      "reason": "Area dominated by parks, memorials, specific-use islands, and dense residential areas with limited large retail sites."
+    },
+    {
+      "name": "Financial District Core",
+      "zipcode": "10005",
+      "reason": "Extremely high real estate costs and dense office environment make finding suitable large retail space highly challenging."
+    },
+    {
+      "name": "Financial District / WTC Area",
+      "zipcode": "10006",
+      "reason": "High property costs, density, and proximity to secure/memorial sites create significant large retail constraints."
+    }
+  ]
